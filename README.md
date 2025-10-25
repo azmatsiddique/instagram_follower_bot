@@ -29,8 +29,8 @@ This project is for educational purposes only. The authors are not responsible f
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
-cd instagram-automation
+git clone https://github.com/azmatsiddique/instagram_follower_bot.git
+cd instagram_follower_bot
 ```
 
 2. Install required packages:
