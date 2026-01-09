@@ -1,3 +1,4 @@
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/azmatsiddiz)
 # Instagram Automation Suite
 
 A collection of Python scripts using Playwright to automate Instagram follower scraping and follow/unfollow workflows.
